@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **devshah0404@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/18aNsxmHVxc2TMhr6tu7ZGYtBiVwpoxcj/view?usp=drive_link](https://drive.google.com/file/d/18aNsxmHVxc2TMhr6tu7ZGYtBiVwpoxcj/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/18aNsxmHVxc2TMhr6tu7ZGYtBiVwpoxcj/view?usp=drive_link](Resume)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
