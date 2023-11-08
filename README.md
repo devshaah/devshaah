@@ -6,9 +6,9 @@
 
 - 🔭 I’m currently working on **a Freelance Website**
 
-- 🌱 I’m currently learning **Backend Technologies**
+- 🌱 I’m currently learning **Backend Technologies, MachineLearning and DSA**
 
-- 💬 Ask me about **React, Tailwind, Javascript , Java**
+- 💬 Ask me about **React, Tailwind, ML , Java**
 
 - 📫 How to reach me **devshah0404@gmail.com**
 
